@@ -1,6 +1,10 @@
-# Snake Game
+# Pong Game
 
 ### Author: Wei Wei
 
 ## GamePlay: 
-https://github.com/wei-wei93/MySnakeGame/assets/115747855/31416b15-7bd4-43c7-a1f2-d5cec60648be
+
+
+https://github.com/user-attachments/assets/c818c659-1129-4e34-87d8-c05347ea3130
+
+
